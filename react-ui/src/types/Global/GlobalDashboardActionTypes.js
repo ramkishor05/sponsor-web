@@ -1,0 +1,1 @@
+export const GET_GLOBAL_DASHBOARDS_SUCCESS = 'get_global_dashboard';
